@@ -1,0 +1,11 @@
+React, c'est quoi ? 
+*******************
+
+ - Générer des interfaces web
+ - Application web SPA (Single Page Application)
+    • Pas de reload (client)
+    • Systeme de routing (react-router)
+ - Développer sous forme de composants
+    • Simple a manipuler
+    • Ré-utilisation
+    • Decoupe de l'app en composants

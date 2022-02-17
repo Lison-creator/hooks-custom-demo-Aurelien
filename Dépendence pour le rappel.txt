@@ -1,0 +1,21 @@
+Dépendence pour le rappel
+*************************
+
+ • prop-types
+Ajout d'un typage sur les "props" des composants (pour le dev)
+
+ • nanoid
+Generateur d'id (url friendly)
+
+ • classnames
+Permet de générer facilement des classnames en JS 
+    → Integration simple dans les JSX
+    → Permet l'ajout de condition
+
+ • moment
+Permet de manipuler des dates en JS (sans pleurer)
+
+
+Commande
+********
+npm install prop-types nanoid classnames moment

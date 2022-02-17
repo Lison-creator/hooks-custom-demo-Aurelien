@@ -1,0 +1,16 @@
+.header {
+    background-color: turquoise;
+    color: darkcyan;
+    margin-bottom: 20px;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.header p {
+    margin: 0px;
+    padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    font-weight: bold;
+}
